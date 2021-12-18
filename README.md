@@ -1,4 +1,4 @@
 # med-identifier
-pip install streamlit
-pip install pytesseract
-pip install pyttsx3
+pip install streamlit <br/>
+pip install pytesseract <br/>
+pip install pyttsx3 <br/>
